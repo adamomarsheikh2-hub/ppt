@@ -379,3 +379,4 @@ function btnStyle(color, disabled = false) {
     cursor: disabled ? "not-allowed" : "pointer", fontWeight: 700,
   };
 }
+
